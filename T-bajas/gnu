@@ -1,0 +1,49 @@
+plot "fsi-T80-fr1-N4096-x30-xa28-g3-dt10-w10_N_5000.dat" lw 3, "fsi-T80-fr1-N4096-x30-xa28-g3-dt6-w10_N_5000.dat" lw 3, "fsi-T80-fr1-N4096-x30-xa28-g3-dt4-w10_N_5000.dat" lw 3,  "fsi-T80-fr1-N4096-x30-xa28-g3-dt1-w10_N_5000.dat" lw 2, "fsi-T80-fr5-N4096-x30-xa28-g3-dt5-w10_N_1000.dat" lw 3, "fsi-T80-fr10-N4096-x30-xa28-g3-dt5-w10_N_1000.dat" lw 3, "fsi-T80-fr15-N4096-x30-xa28-g3-dt1-w10_N_1000.dat" lw 3, "fsi-T80-fr20-N4096-x30-xa28-g3-dt1-w10_N_1000.dat" lw 3, "fsi-
+T80-fr20-N4096-x30-xa28-g3-dt05-w10_N_1000.dat" lw 3
+
+
+
+ plot "fsi-T140-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_50000.dat" lw 3, "fsi-T90-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_20000.dat" lw 3, "fsi-T220-k0p86-N4096-x30-xa28-fr008-g3-dt80-w10_N_50000.dat" lw 3, "fsi-T220-k0p86-N4096-x30-xa28-fr008-g3-dt80-w10_N_80000.dat" lw 3, "fsi-T220-k0p86-N4096-x30-xa28-fr008-g3-dt80-w8_N_10000.dat" lw 3,  "fsi-T220-k0p86-N4096-x30-xa28-fr008-g3-dt80-w8_N_50000.dat" lw 3, "fsi-T220-k0p86-N4096-x32-xa30-fr008-g3-dt80-w10_N_8000.dat" lw 3, "fsi-T220-k0p86-N4096-x32-xa30-fr008-g3-dt80-w10_N_20000.dat" lw 3, "fsi-T80-fr01-N4096-x32-xa30-g3-dt80-w10_N_50000.dat" lw 3
+
+
+plot "Fig1-100K.dat" lw 3, "Fig1-80K.dat" lw 3, "fsi-T80-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_10000.dat" lw 3, "fsi-T100-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_50000.dat" lw 3, "fsi-T180-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_10000.dat" lw 3, "fsi-T220-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_50000.dat" lw 3
+
+
+
+plot "Fig1-100K.dat" lw 3, "Fig1-80K.dat" lw 3, "fsi-T80-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_10000.dat" lw 3, "fsi-T100-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_10000.dat" lw 3, "fsi-T180-k0p86-N4096-x30-xa28-fr008-g3-dt70-w10_N_10000.dat" lw 3, "fsi-T220-k0p
+86-N4096-x30-xa28-fr008-g3-dt70-w100_N_10000.dat" lw 3, "fsi-T220-k0p86-N4096-x30-xa28-fr00
+8-g3-dt70-w10_N_10000.dat" lw 3
+
+
+
+
+ plot "Fig1-100K.dat" lw 3, "fsi-k0p86-N4096-x30-xa28-fr0002-g1-dt50-w50_N_1000.dat" lw 3, "fsi-k0p86-N4096-x30-xa28-fr0001-g1-dt50-w50_N_1000.dat" lw 3, "fsi-k0p86-N4096-x30-xa28-fr0001-g1-dt50-w60_N_1000.dat"  lw 3, "fsi-k0p86-N4096-x30-xa28-fr0001-g1-dt50-w80_N_1000.dat" lw 3, "fsi-k0p86-N4096-x30-xa29-fr0001-g1-dt50-w80_N_1000.dat" lw 3, "fsi-k0p86-N4096-x30-xa29-fr0001-g1-dt50-w80_N_20000.dat" lw 3, "fsi-k0p86-N4096-x30-xa25-fr0001-g1-dt50-w50_N_1000.dat" lw 3
+
+
+plot "fsi-k0p86-N4096-x40-xa39p8-fr001-g1-dt700-w1_N_1000.dat" lw 3, "fsi-k0p86-N4096-x40-xa30-fr001-g1-dt700-w1_N_1000.dat" lw 3, "fsi-k0p86-N4096-x40-xa28-fr001-g1-dt700-w1_N_1000.dat" lw 3, "fsi-k0p86-N4096-x40-xa20-fr001-g1-dt700-w1_N_1000.dat" lw 3, "fsi-k0p86-N4096-x8-xa6-fr001-g1-dt700-w1_N_1000.dat" lw 3,
+"fsi-k0p86-N4096-x8-xa5-fr001-g1-dt700-w1_N_1000.dat" lw 3, "fsi-k0p86-N4096-x8-xa4-fr001-g1-dt700-w1_N_1000.dat" lw 3
+
+
+
+
+plot "fsi-N2048-x4-xa2p6-fr180-g20-dt900-w5_N_10000.dat" lw 3, "fsi-N2048-x10-xa2p6-fr180g20-dt900-w5_N_10000.dat" lw 3, "fsi-N2048-x20-xa2p6-fr180-g20-dt900-w5_N_10000.dat" lw 3, "fsi-N2048-x20-xa2p6-fr180-g20-dt900-w20_N_10000.dat" lw 3, "fsi-N2048-x20-xa2p6-fr180-g20-dt900-w08_N_10000.dat" lw 3, "fsi-N2048-x8-xa2p6-fr180-g20-dt900-w08_N_10000.dat" lw 3, "fsi-N2048-x8-xa2p6-fr180-g20-dt900-w08_N_20000.dat" lw 3, "fsi-N2048-x8-xa2p6-fr180-g20-dt900-w08_N_40000.dat"
+lw 3, "fsi-N2048-x20-xa2p6-fr180-g30-dt900-w08_N_40000.dat" lw 3, "fsi-N2048-x20-xa2p6-fr80-g30-dt900-w08_N_40000.dat" lw 3, "fsi-N2048-x20-xa2p6-fr10-g30-dt900-w08_N_20000.dat" lw 3
+
+
+plot "fsi1-N4-x4-xa2p6-fr240-g20_N_60000.dat" lw 3, "fsi1-N4-x4-xa2p6-fr200-g20_N_60000.dat" lw 3, "fsi-N4-x4-xa2p6-fr200-g20_N_40000.dat" lw 3,"fsi-N4-x4-xa2p6-fr190-g20_N_40000.dat" lw 3, "fsi-N4-x4-xa2p6-fr180-g20_N_10000.dat" lw 3, "fsi-N4-x4-xa2p6-fr170-g20_N_10000.dat" lw 3, "fsi-N4-x4-xa2p6-fr160-g20_N_20000.dat" lw 3, "fsi-N4-x4-xa2p6-fr150-g20_N_20000.dat" lw 3, "fsi-N4-x4-xa2p6-fr130-g20_N_20000.dat" lw 3, "fsi-N4-x4-xa2p6-fr90-g20_N_20000.dat" lw 3, "fsi2-N4-x4-xa2p6-fr240-g20_N_70000.dat" lw 3, "fsi2-N4-x4-xa2p6-fr60-g20_N_50000.dat" lw 4, "fsi3-N4-x4-xa2p6-fr240-g20_N_50000.dat" lw 3, "fsi-N8-x4-xa2p6-fr70-dt50-g2_N_8000.dat" lw 3, "fsi-N8-x4-xa3-fr160-dt50_N_8000.dat" lw 3
+
+plot "fsi-N4-x4-xa2p6-fr180-g20-dt900-w08_N_40000.dat" lw 3, "fsi4-N4-x4-xa2p6-fr180-g20_N_40000.dat" lw 3, "fsi-N4-x4-xa2p6-fr180-g20-dt900-w05_N_40000.dat" lw 3, "fsi-N4-x4-xa2p6-fr180-g20-dt900-w5_N_40000.dat" lw 3, "fsi-N4-x4-xa2p6-fr180-g20-dt900-w10_N_40000.dat" lw 3, "fsi-N2-x4-xa2p6-fr180-dt900-w5_N_40000.dat" lw 3, "fsi-N1-x4-xa2p6-fr180-g20-dt900-w5_N_40000.dat" lw 3, "fsi-N512-x4-xa2p6-fr180-g20-dt900-w5_N_40000.dat" lw 3, "fsi-N512-x5-xa2p6-fr180-g20-dt900-w5_N_40000.dat" lw 3, "fsi-N512-x4-xa2p6-fr180-g20-dt100-w5_N_40000.dat" lw 3, "fsi-N512-x4-xa2p6-fr180-g20-dt900-w10_N_40000.dat" lw 3, "fsi-N512-x4-xa2p6-fr180-g20-dt900-w2_N_40000.dat" lw 3
+
+
+plot "fsi-N512-x4-xa2p6-fr180-g20-dt900-w5_N_40000.dat" lw 3, "fsi-N512-x4-xa2p6-fr180-g20-dt900-w10_N_40000.dat" lw 3, "fsi-N512-x4-xa2p6-fr180-g20-dt900-w2_N_40000.dat" lw 3, "fsi-N512-x4-xa2p6-fr180-g20-dt900-w1_N_40000.dat" lw
+3, "fsi-N512-x4-xa2p6-fr180-g20-dt800-w1_N_40000.dat" lw 3, "fsi-N2048-x4-xa2p6-fr180-g20-dt900-w5_N_10000.dat" lw 3, "fsi-N2048-x10-xa2p6-fr180g20-dt900-w5_N_10000.dat" lw 3, "fsi-N2048-x20-xa2p6-fr180-g20-dt900-w5_N_10000.dat" lw 3, "fsi-N2048-x20-xa2p6-fr180-g20-dt900-w20_N_10000.dat" lw 3, "fsi-N2048-x20-xa2p6-fr180-g20-dt900-w08_N_10000.dat" lw 3, "fsi-N2048-x8-xa2p6-fr180-g20-dt900-w08_N_10000.dat" lw 3, "fsi-N2048-x8-xa2p6-fr180-g20-dt900-w08_N_20000.dat" lw 3, "fsi-N2
+048-x8-xa2p6-fr180-g20-dt900-w08_N_40000.dat" lw 3
+
+
+ plot "fsi1-N4-x4-xa2p6-fr240-g20_N_60000.dat" lw 3, "fsi1-N4-x4-xa2p6-fr200-g20_N_60000.dat" lw 3, "fsi-N4-x4-xa2p6-fr200-g20_N_40000.dat" lw 3,"fsi-N4-x4-xa2p6-fr190-g20_N_40000.dat" lw 3, "fsi-N4-x4-xa2p6-fr180-g20_N_10000.dat" lw 3, "fsi-N4-x4-xa2p6-fr170-g20_N_10000.dat" lw 3, "fsi-N4-x4-xa2p6-fr160-g20_N_20000.dat" lw 3, "fsi-N4-x4-xa2p6-fr150-g20_N_20000.dat" lw 3, "fsi-N4-x4-xa2p6-fr130-g20_N_20000.dat" lw 3, "fsi-N4-x4-xa2p6-fr90-g20_N_20000.dat" lw 3, "fsi2-N4-x4-xa2p6-fr240-g20_N_70000.dat" lw 3, "fsi2-N4-x4-xa2p6-fr60-g20_N_50000.dat" lw 4
+
+
+plot "fsi-fr150-x4-xa2p6-w4-g01-t90_N_5000.dat" lw 3, "fsi-fr150-x4-xa2p6-w4-g02-t90_N_5000.dat" lw 3, "fsi-fr150-x4-xa2p6-w4-g03-t90_N_5000.dat" lw 3,"fsi-fr150-x4-xa2p6-w4-g05-t90_N_5000.dat" lw 3, "fsi-fr150-x4-xa2p6-w4-g1-t90_N_5000.dat" lw 3, "fsi-fr150-x4-xa2p6-w4-g6-t90_N_5000.dat" lw 3, "fsi-fr150-x4-xa2p6-w4-g10-t90_N_5000.dat" lw 3, "fsi-fr150-x4-xa2p6-w4-g20-t90_N_5000.dat" lw 3, "fsi6-x4-xa2p6-w4-g20-t90_N_10000.dat" lw 3, "fsi6-x4-fr160-w4-g20-t90_N_8000.dat" lw 3, "fsi6-x4-fr140-w4-g20-t90_N_10000.dat" lw 3, "fsi6-x4-fr120-w4-g20-t90_N_10000.dat" lw 3, "fsi-N8-x4-xa2p6-fr170-g20_N_1000.dat" lw 3, "fsi-N8-x4-xa2p6-fr180-g20_N_1000.dat" lw 3
+
+
+plot "fsi1-x5-xa4-w1-g2-t60_N_2000.dat" lw 3, "fsi1-x5-xa4-w1-g2-t60_N_500.dat" lw 3, "fsi-N8-x6-xa5-fr160-dt60_N_1000.dat" lw 3, "fsi-N8-x6-xa5-fr160-dt60_N_2000.dat" lw 3, "fsi-N8-x6-xa5-fr160-dt60_N_4000.dat" lw 3, "fsi-N8-x6-xa5-fr160-dt60_N_6000.dat" lw 3, "fsi-N8-x6-xa5-fr80-dt60_N_2000.dat" lw 3, "fsi-N8-x6-xa5-fr80-dt60_N_6000.dat" lw 3, "fsi-N8-x6-xa5-fr160-dt60_N_8000.dat" lw 3, "fsi1-x4-xa3-w1-g2-t50_N_500.dat" lw 3
